@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ZyCromerZ/gdrive/cli"
+	"github.com/RyuujiX/gdrive/cli"
 	"os"
 	"runtime"
 	"strings"

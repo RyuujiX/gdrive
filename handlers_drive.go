@@ -11,13 +11,13 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/ZyCromerZ/gdrive/auth"
-	"github.com/ZyCromerZ/gdrive/cli"
-	"github.com/ZyCromerZ/gdrive/drive"
+	"github.com/RyuujiX/gdrive/auth"
+	"github.com/RyuujiX/gdrive/cli"
+	"github.com/RyuujiX/gdrive/drive"
 )
 
-const ClientId = "593992814236-f973l6mk5t37std0140mcldpaduq9pl7.apps.googleusercontent.com"
-const ClientSecret = "IjHfcH6MTKy1Zu7CFjz9jhQe"
+const ClientId = "157563624604-5rsg7203bbbajeib11huapq566gg1oe2.apps.googleusercontent.com"
+const ClientSecret = "lf2-cVz6xgvxTb8raeb2PUKX"
 const TokenFilename = "token_v2.json"
 const DefaultCacheFileName = "file_cache.json"
 
